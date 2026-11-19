@@ -1,0 +1,4 @@
+Lote 234. No publicado en Buffer en la sesion de creacion: HTTP 429 Retry-After 130262 s el 2026-11-19. Sin post id.
+Duraciones reales: ia_ojos.mp4 01:32:47, fe_torno.mp4 01:22:51, cu_pliegues.mp4 00:04:02.
+Voces: es-MX-DaliaNeural, es-MX-JorgeNeural, es-CO-SalomeNeural.
+Tag Amazon confirmado en Drive/posts previos: michelgonza02-20.
